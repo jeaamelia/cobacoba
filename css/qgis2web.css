@@ -26,6 +26,10 @@
             width:auto;
             padding-right:10px;
         }
+.popupImage{
+        max-width: 100%;
+        max-height:auto;
+}
         .leaflet-tooltip {
             background: none;
             box-shadow: none;
